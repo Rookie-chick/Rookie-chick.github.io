@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Rookie-Chick</title>
+<link>https://rookie-chick.github.io/</link>
+<description>我的第一个博客</description>
+<language>zh-CN</language>
+<lastBuildDate>Sat, 17 Oct 2026 14:18:16 +0000</lastBuildDate>
+<item>
+<title>Digital Forensics</title>
+<link>https://rookie-chick.github.io/posts/digital-forensics.html</link>
+<guid>https://rookie-chick.github.io/posts/digital-forensics.html</guid>
+<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[Digital Forensics every project was created would leave a trace we can trace back along the network traceability in this we have a photo and…]]></description>
+</item>
+<item>
+<title>Self-built Node(vps -&gt; vpn)</title>
+<link>https://rookie-chick.github.io/posts/self-built-nodevps-vpn.html</link>
+<guid>https://rookie-chick.github.io/posts/self-built-nodevps-vpn.html</guid>
+<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[First Step choose VPS (servise) preferably from abroad 传家宝VPS监控 - 实时库存补货与优惠码 | 搬瓦工/DMIT/RackNerd/NetCup https://legacyvps.com/scanidc https:…]]></description>
+</item>
+<item>
+<title>Login injection</title>
+<link>https://rookie-chick.github.io/posts/login-injection.html</link>
+<guid>https://rookie-chick.github.io/posts/login-injection.html</guid>
+<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[if you input password unequale plateform show First : use console debugger login information eg MD5 encrypt steps 2： use python COPY JS orig…]]></description>
+</item>
+<item>
+<title>FUZZ 2: SQL injection</title>
+<link>https://rookie-chick.github.io/posts/fuzz-2-sql-injection.html</link>
+<guid>https://rookie-chick.github.io/posts/fuzz-2-sql-injection.html</guid>
+<pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[SQL injection (string) steps 1: use BP intercept require then change message steps 2: turn into intruder then use SQL password inject done]]></description>
+</item>
+<item>
+<title>FUZZ</title>
+<link>https://rookie-chick.github.io/posts/fuzz.html</link>
+<guid>https://rookie-chick.github.io/posts/fuzz.html</guid>
+<pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[target： first 1: use BP and input URL then intruder change data in get took down the other party's server, sorry so delete URL,you can look …]]></description>
+</item>
+<item>
+<title>mobile phone verification code vulnerability</title>
+<link>https://rookie-chick.github.io/posts/mobile-phone-verification-code-vulnerability.html</link>
+<guid>https://rookie-chick.github.io/posts/mobile-phone-verification-code-vulnerability.html</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[Type 1 :brute-force attack if only have time limit don't have number of attempts limit can use method like BurpSuite: BurpSuite - Rookie-Chi…]]></description>
+</item>
+<item>
+<title>AssaultCube Bullet</title>
+<link>https://rookie-chick.github.io/posts/assaultcube-bullet.html</link>
+<guid>https://rookie-chick.github.io/posts/assaultcube-bullet.html</guid>
+<pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[Check the position of the bullet manual search First1: open AssaultCube AssaultCube https://assault.cubers.net/ turn on CE Cheat Engine http…]]></description>
+</item>
+<item>
+<title>BurpSuite</title>
+<link>https://rookie-chick.github.io/posts/burpsuite.html</link>
+<guid>https://rookie-chick.github.io/posts/burpsuite.html</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[BP download: Download Burp Suite Community Edition - PortSwigger https://portswigger.net/burp/communitydownload cracked version: 【抓包神器】BurpS…]]></description>
+</item>
+<item>
+<title>generate Trojan</title>
+<link>https://rookie-chick.github.io/posts/generate-trojan.html</link>
+<guid>https://rookie-chick.github.io/posts/generate-trojan.html</guid>
+<pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[windows command dir:directory cd:change directory cls:clears First 1 into the desktop in the command cd Desktop then generate Trojan(LHOST i…]]></description>
+</item>
+<item>
+<title>test</title>
+<link>https://rookie-chick.github.io/posts/test.html</link>
+<guid>https://rookie-chick.github.io/posts/test.html</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>kali lession 2 SqlMap</title>
+<link>https://rookie-chick.github.io/posts/kali-lession-2-sqlmap.html</link>
+<guid>https://rookie-chick.github.io/posts/kali-lession-2-sqlmap.html</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[sqlmap official document: sqlmap: automatic SQL injection and database takeover tool (https://sqlmap.org/) First 1: check target if has vuln…]]></description>
+</item>
+<item>
+<title>kali initialization</title>
+<link>https://rookie-chick.github.io/posts/learn.html</link>
+<guid>https://rookie-chick.github.io/posts/learn.html</guid>
+<pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[kali first step kali First sudo apt update: In order to update the plug-in #####]]></description>
+</item>
+<item>
+<title>kali the first lesson metasploit</title>
+<link>https://rookie-chick.github.io/posts/hello-world.html</link>
+<guid>https://rookie-chick.github.io/posts/hello-world.html</guid>
+<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[Turn on metasploit-framework(meta exploit) official documents: Home | Metasploit Documentation Penetration Testing Software, Pen Testing Sec…]]></description>
+</item>
+</channel></rss>
