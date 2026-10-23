@@ -4,7 +4,14 @@
 <link>https://rookie-chick.github.io/</link>
 <description>我的第一个博客</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 19 Oct 2026 08:08:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 14:41:00 +0000</lastBuildDate>
+<item>
+<title>鹈鹕测试：10 个模型同题横评</title>
+<link>https://rookie-chick.github.io/posts/pelican-test.html</link>
+<guid>https://rookie-chick.github.io/posts/pelican-test.html</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[同一个提示词，让 10 个模型各画一只骑自行车的鹈鹕。从造型、结构、动画、视觉、工程五个维度打分，再把价格和等待时间算进同一张账单。]]></description>
+</item>
 <item>
 <title>Digital Forensics</title>
 <link>https://rookie-chick.github.io/posts/digital-forensics.html</link>

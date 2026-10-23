@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://rookie-chick.github.io/</loc><priority>1.0</priority></url>
 <url><loc>https://rookie-chick.github.io/archive.html</loc><priority>0.5</priority></url>
+<url><loc>https://rookie-chick.github.io/posts/pelican-test.html</loc><priority>0.8</priority></url>
 <url><loc>https://rookie-chick.github.io/posts/digital-forensics.html</loc><priority>0.8</priority></url>
 <url><loc>https://rookie-chick.github.io/posts/self-built-nodevps-vpn.html</loc><priority>0.8</priority></url>
 <url><loc>https://rookie-chick.github.io/posts/login-injection.html</loc><priority>0.8</priority></url>
@@ -16,6 +17,10 @@
 <url><loc>https://rookie-chick.github.io/posts/learn.html</loc><priority>0.8</priority></url>
 <url><loc>https://rookie-chick.github.io/posts/hello-world.html</loc><priority>0.8</priority></url>
 <url><loc>https://rookie-chick.github.io/about.html</loc><priority>0.6</priority></url>
+<url><loc>https://rookie-chick.github.io/categories/AI.html</loc><priority>0.4</priority></url>
 <url><loc>https://rookie-chick.github.io/categories/%E6%9C%AA%E5%88%86%E7%B1%BB.html</loc><priority>0.4</priority></url>
+<url><loc>https://rookie-chick.github.io/tags/LLM.html</loc><priority>0.3</priority></url>
+<url><loc>https://rookie-chick.github.io/tags/%E8%AF%84%E6%B5%8B.html</loc><priority>0.3</priority></url>
+<url><loc>https://rookie-chick.github.io/tags/SVG.html</loc><priority>0.3</priority></url>
 <url><loc>https://rookie-chick.github.io/tags/steps.html</loc><priority>0.3</priority></url>
 </urlset>
